@@ -7,3 +7,4 @@ numpy
 scikit-learn
 matplotlib
 tqdm
+anthropic         # step5_vision_judge.py — serve ANTHROPIC_API_KEY nell'ambiente

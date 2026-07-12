@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Personal photo data — trip exports, experiment outputs, and generated
+# artifacts (features.npz, picker.html thumbnails, etc). Large binaries and
+# personal content; never meant to be version-controlled.
+PhotoKoyasan/
+PhotoKoyasan_duplicates/
+PhotoKoyasan_screenshots/
+PhotoKoyasan_results/
+PhotoKoyasancleaned/
+PhotoOsaka/
+PhotoOsaka_screenshots/
+PhotoOsaka_results/
+PhotoOsakacleaned/

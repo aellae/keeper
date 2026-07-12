@@ -1,0 +1,9 @@
+sentence-transformers>=2.2
+torch
+pillow>=10
+pillow-heif
+opencv-python<5   # 5.x dropped cv2.CascadeClassifier used in step1's face detection
+numpy
+scikit-learn
+matplotlib
+tqdm

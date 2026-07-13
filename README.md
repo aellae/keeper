@@ -1,4 +1,4 @@
-# CleanPhone
+# Keeper * Winnow
 
 App per liberare spazio sul telefono e ritrovare le foto belle senza scorrerne 2.000 — un selettore con vincolo di diversità (non un ranker) sceglie un album, non i 60 tramonti migliori.
 
